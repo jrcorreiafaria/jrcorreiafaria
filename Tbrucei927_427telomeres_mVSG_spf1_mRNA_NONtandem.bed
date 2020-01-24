@@ -1,0 +1,128 @@
+Tb927_01_v5.1	253690	254102	Tb927.1.800:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.1.800:mRNA;Parent=Tb927.1.800;Ontology_term=GO:0097014,GO:0031981;description=hypothetical transmembrane protein
+Tb927_01_v5.1	488948	493047	Tb927.1.1890:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.1890:mRNA;Parent=Tb927.1.1890;Ontology_term=GO:0005654;description=Replication Factor C Subunit 1-related protein
+Tb927_02_v5.1	317192	321148	Tb927.2.1700:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.2.1700:mRNA;Parent=Tb927.2.1700;Ontology_term=GO:0020016;description=Enriched in surface-labeled proteome protein 10
+Tb927_02_v5.1	560865	564116	Tb927.2.2950:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.2.2950:mRNA;Parent=Tb927.2.2950;description=Nop14-like family%2C putative
+Tb927_02_v5.1	823238	824300	Tb927.2.4650:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.2.4650:mRNA;Parent=Tb927.2.4650;description=hypothetical protein%2C conserved
+Tb927_02_v5.1	1102709	1105984	Tb927.2.6130:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.2.6130:mRNA;Parent=Tb927.2.6130;Ontology_term=GO:0042626,GO:0043190;description=ABC transporter%2C putative
+Tb927_03_v5.1	161531	162003	Tb927.3.650:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.650:mRNA;Parent=Tb927.3.650;description=hypothetical protein%2C conserved
+Tb927_03_v5.1	172234	175339	Tb927.3.710:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.710:mRNA;Parent=Tb927.3.710;Ontology_term=GO:0008270,GO:0016021;description=RING-variant domain containing protein%2C putative
+Tb927_03_v5.1	446048	448336	Tb927.3.1700:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.1700:mRNA;Parent=Tb927.3.1700;Note=2.3.1.20 (Diacylglycerol O-acyltransferase);Ontology_term=GO:0004144,GO:0097014,GO:0016021,GO:0046467;description=diacylglycerol acyltransferase%2C putative
+Tb927_03_v5.1	687014	688420	Tb927.3.2700:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.2700:mRNA;Parent=Tb927.3.2700;Ontology_term=GO:0005654;description=hypothetical protein%2C conserved
+Tb927_03_v5.1	993416	994611	Tb927.3.3530:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.3.3530:mRNA;Parent=Tb927.3.3530;Ontology_term=GO:0036064;description=hypothetical protein%2C conserved
+Tb927_03_v5.1	1364413	1368019	Tb927.3.4850:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4850:mRNA;Parent=Tb927.3.4850;Note=4.2.1.17 (Enoyl-CoA hydratase);description=enoyl-CoA hydratase%2C mitochondrial precursor%2C putative
+Tb927_03_v5.1	1421163	1424174	Tb927.3.5070:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.3.5070:mRNA;Parent=Tb927.3.5070;description=hypothetical protein%2C conserved
+Tb927_04_v5.1	112298	113899	Tb927.4.380:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.4.380:mRNA;Parent=Tb927.4.380;description=WD domain%2C G-beta repeat%2C putative
+Tb927_04_v5.1	296343	297920	Tb927.4.1120:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.4.1120:mRNA;Parent=Tb927.4.1120;description=hypothetical protein%2C conserved
+Tb927_04_v5.1	365452	367416	Tb927.4.1410:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.4.1410:mRNA;Parent=Tb927.4.1410;Ontology_term=GO:0097014;description=hypothetical protein%2C conserved
+Tb927_04_v5.1	485771	486810	Tb927.4.1910:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.4.1910:mRNA;Parent=Tb927.4.1910;Ontology_term=GO:0005737,GO:0010608;description=hypothetical protein%2C conserved
+Tb927_04_v5.1	631442	634558	Tb927.4.2430:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.4.2430:mRNA;Parent=Tb927.4.2430;Ontology_term=GO:0005737;description=Endonuclease/Exonuclease/phosphatase family%2C putative
+Tb927_04_v5.1	768054	771193	Tb927.4.2900:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.4.2900:mRNA;Parent=Tb927.4.2900;Ontology_term=GO:0036064,GO:0035869,GO:0005739;description=hypothetical protein%2C conserved
+Tb927_04_v5.1	1040744	1043420	Tb927.4.3940:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.4.3940:mRNA;Parent=Tb927.4.3940;description=Calpain-like protein 2
+Tb927_04_v5.1	1139739	1142084	Tb927.4.4310:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.4.4310:mRNA;Parent=Tb927.4.4310;Ontology_term=GO:0005643,GO:0044613,GO:0010608;description=Nucleoporin NUP64
+Tb927_04_v5.1	1313423	1314384	Tb927.4.4790:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.4.4790:mRNA;Parent=Tb927.4.4790;description=hypothetical protein%2C conserved
+Tb927_05_v5.1	107152	107907	Tb927.5.292b:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.5.292b:mRNA;Parent=Tb927.5.292b;description=hypothetical protein
+Tb927_05_v5.1	1055535	1056120	Tb927.5.3210:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.3210:mRNA;Parent=Tb927.5.3210;Ontology_term=GO:0005634;description=small ubiquitin-related modifier
+Tb927_05_v5.1	1124118	1126164	Tb927.5.3370:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.3370:mRNA;Parent=Tb927.5.3370;description=hypothetical protein
+Tb927_05_v5.1	1175463	1177939	Tb927.5.3570:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.5.3570:mRNA;Parent=Tb927.5.3570;description=hypothetical protein%2C conserved
+Tb927_05_v5.1	1281628	1283030	Tb927.5.3950:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.5.3950:mRNA;Parent=Tb927.5.3950;description=2OG-Fe(II) oxygenase superfamily%2C putative
+Tb927_05_v5.1	1319158	1322407	Tb927.5.4130:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4130:mRNA;Parent=Tb927.5.4130;Ontology_term=GO:0005739;description=hypothetical protein%2C conserved
+Tb927_05_v5.1	1341215	1344591	Tb927.5.4300:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4300:mRNA;Parent=Tb927.5.4300;Note=3.4.21.- (Serine endopeptidases.);description=prolyl oligopeptidase%2C putative
+Tb927_06_v5.1	584160	586325	Tb927.6.1750:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.1750:mRNA;Parent=Tb927.6.1750;description=Rab-GTPase-TBC domain containing protein%2C putative
+Tb927_06_v5.1	789922	790580	Tb927.6.2610:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.2610:mRNA;Parent=Tb927.6.2610;Ontology_term=GO:0005739;description=hypothetical protein%2C conserved
+Tb927_06_v5.1	858695	861019	Tb927.6.2860:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.2860:mRNA;Parent=Tb927.6.2860;Ontology_term=GO:0005737;description=WD domain%2C G-beta repeat%2C putative
+Tb927_06_v5.1	1134633	1137042	Tb927.6.3830:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.3830:mRNA;Parent=Tb927.6.3830;description=hypothetical protein%2C conserved
+Tb927_07_v5.1	139411	143433	Tb927.7.670:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.7.670:mRNA;Parent=Tb927.7.670;description=hypothetical protein%2C conserved
+Tb927_07_v5.1	265051	267843	Tb927.7.1030:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.1030:mRNA;Parent=Tb927.7.1030;description=heat shock 70 kDa protein%2C putative
+Tb927_07_v5.1	290250	290802	Tb927.7.1120:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.1120:mRNA;Parent=Tb927.7.1120;Note=1.11.1.9 (Glutathione peroxidase);Ontology_term=GO:0097014,GO:0031981;description=trypanothione/tryparedoxin dependent peroxidase 1%2C cytosolic
+Tb927_07_v5.1	385038	386071	Tb927.7.1540:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.1540:mRNA;Parent=Tb927.7.1540;description=Staphylococcal nuclease homologue%2C putative
+Tb927_07_v5.1	434541	436363	Tb927.7.1770:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.1770:mRNA;Parent=Tb927.7.1770;description=Mini-chromosome maintenance complex-binding protein
+Tb927_07_v5.1	452545	453553	Tb927.7.1890:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.1890:mRNA;Parent=Tb927.7.1890;Ontology_term=GO:0010608;description=hypothetical protein%2C conserved
+Tb927_07_v5.1	850270	852926	Tb927.7.3300:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.7.3300:mRNA;Parent=Tb927.7.3300;description=hypothetical protein%2C conserved
+Tb927_07_v5.1	949372	949888	Tb927.7.3645:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.7.3645:mRNA;Parent=Tb927.7.3645;description=hypothetical protein
+Tb927_07_v5.1	1034263	1037558	Tb927.7.3950:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.3950:mRNA;Parent=Tb927.7.3950;Ontology_term=GO:0050265,GO:0000166,GO:0004652,GO:0020023,GO:0005739;description=RNA-editing complex protein
+Tb927_07_v5.1	1118962	1120491	Tb927.7.4200:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.4200:mRNA;Parent=Tb927.7.4200;Ontology_term=GO:0020023,GO:0005739;description=hypothetical protein%2C conserved
+Tb927_07_v5.1	1230654	1230882	Tb927.7.4645:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.7.4645:mRNA;Parent=Tb927.7.4645;description=hypothetical protein
+Tb927_07_v5.1	1347322	1348634	Tb927.7.5100:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.5100:mRNA;Parent=Tb927.7.5100;description=hypothetical protein%2C conserved
+Tb927_07_v5.1	1490807	1492370	Tb927.7.5530:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.5530:mRNA;Parent=Tb927.7.5530;description=hypothetical protein%2C conserved
+Tb927_07_v5.1	1573531	1574146	Tb927.7.5830:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.5830:mRNA;Parent=Tb927.7.5830;description=hypothetical protein%2C conserved
+Tb927_07_v5.1	1851695	1854461	Tb927.7.6700:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.7.6700:mRNA;Parent=Tb927.7.6700;Ontology_term=GO:0010608;description=hypothetical protein
+Tb927_07_v5.1	2022138	2023777	Tb927.7.7080:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.7.7080:mRNA;Parent=Tb927.7.7080;Ontology_term=GO:0005739;description=mitochondrial glycoprotein-like protein
+Tb927_08_v5.1	160541	162621	Tb927.8.560:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.8.560:mRNA;Parent=Tb927.8.560;Ontology_term=GO:0005509,GO:0016021,GO:0005741;description=hypothetical protein%2C conserved
+Tb927_08_v5.1	577614	581715	Tb927.8.1770:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.8.1770:mRNA;Parent=Tb927.8.1770;Ontology_term=GO:0005737,GO:0005739,GO:0010608;description=hypothetical protein%2C conserved
+Tb927_08_v5.1	581858	587851	Tb927.8.1780:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.8.1780:mRNA;Parent=Tb927.8.1780;Ontology_term=GO:0005524,GO:0004674,GO:0005737,GO:0006468;description=STE/STE7 protein kinase%2C putative
+Tb927_08_v5.1	675638	676274	Tb927.8.2190:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.2190:mRNA;Parent=Tb927.8.2190;Ontology_term=GO:0005739;description=hypothetical protein%2C conserved
+Tb927_08_v5.1	703240	703794	Tb927.8.2340:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.2340:mRNA;Parent=Tb927.8.2340;Ontology_term=GO:0005739;description=hypothetical protein%2C conserved
+Tb927_08_v5.1	734905	735789	Tb927.8.2460:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.2460:mRNA;Parent=Tb927.8.2460;description=hypothetical protein%2C conserved
+Tb927_08_v5.1	1248876	1250284	Tb927.8.4210:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.8.4210:mRNA;Parent=Tb927.8.4210;Ontology_term=GO:0036064,GO:0097014;description=basal body component%2C putative
+Tb927_08_v5.1	1568994	1570821	Tb927.8.5250:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.5250:mRNA;Parent=Tb927.8.5250;Ontology_term=GO:0005737,GO:0006886;description=delta-coat protein%2C putative
+Tb927_08_v5.1	1662881	1664988	Tb927.8.5600:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.5600:mRNA;Parent=Tb927.8.5600;Note=2.2.1.2 (Transaldolase);Ontology_term=GO:0004801,GO:0097014,GO:0020015,GO:0031981,GO:0006098;description=transaldolase%2C putative
+Tb927_08_v5.1	1802753	1807323	Tb927.8.6200:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.6200:mRNA;Parent=Tb927.8.6200;Ontology_term=GO:0008017,GO:0006457;description=tubulin folding cofactor D%2C putative
+Tb927_08_v5.1	1835929	1840202	Tb927.8.6340:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.6340:mRNA;Parent=Tb927.8.6340;description=CYC2-like cyclin%2C putative
+Tb927_08_v5.1	2461949	2465875	Tb927.8.8320:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.8320:mRNA;Parent=Tb927.8.8320;description=hypothetical protein%2C conserved
+Tb927_09_v5.1	358345	360250	Tb927.9.1510:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.9.1510:mRNA;Parent=Tb927.9.1510;description=D-ala D-ala ligase C-terminus/SET domain containing protein%2C putative
+Tb927_09_v5.1	423747	425654	Tb927.9.1780:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.9.1780:mRNA;Parent=Tb927.9.1780;Ontology_term=GO:0008565,GO:0005739,GO:0009306;description=sec1 family transport protein%2C putative
+Tb927_09_v5.1	581190	587353	Tb927.9.2630:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.9.2630:mRNA;Parent=Tb927.9.2630;description=hypothetical protein%2C conserved
+Tb927_09_v5.1	1092488	1100226	Tb927.9.6670:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.6670:mRNA;Parent=Tb927.9.6670;description=hypothetical protein%2C conserved
+Tb927_09_v5.1	1137418	1138323	Tb927.9.7000:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.7000:mRNA;Parent=Tb927.9.7000;description=methyltransferase domain containing protein%2C putative
+Tb927_09_v5.1	1301113	1302055	Tb927.9.7870:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.9.7870:mRNA;Parent=Tb927.9.7870;description=hypothetical protein%2C conserved
+Tb927_09_v5.1	1506092	1507040	Tb927.9.9420:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.9.9420:mRNA;Parent=Tb927.9.9420;description=hypothetical protein%2C conserved
+Tb927_09_v5.1	1686879	1687459	Tb927.9.10650:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.9.10650:mRNA;Parent=Tb927.9.10650;description=hypothetical protein
+Tb927_09_v5.1	1688914	1690760	Tb927.9.10670:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.9.10670:mRNA;Parent=Tb927.9.10670;Ontology_term=GO:0043130,GO:0034464,GO:0036064,GO:0020018,GO:0030665,GO:0005737,GO:0042384,GO:0060285,GO:0009405,GO:0006907,GO:0033572;description=bardet-biedl syndrome 1 protein
+Tb927_09_v5.1	1703029	1706222	Tb927.9.10790:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.9.10790:mRNA;Parent=Tb927.9.10790;description=hypothetical protein
+Tb927_09_v5.1	1948032	1949170	Tb927.9.12470:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.12470:mRNA;Parent=Tb927.9.12470;description=inositol polyphosphate kinase%2C putative
+Tb927_09_v5.1	2030993	2033014	Tb927.9.12850:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.12850:mRNA;Parent=Tb927.9.12850;Ontology_term=GO:0005739;description=SpoU rRNA Methylase family%2C putative
+Tb927_09_v5.1	2079635	2080698	Tb927.9.13150:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.13150:mRNA;Parent=Tb927.9.13150;Ontology_term=GO:0010608;description=TFIIF-stimulated CTD phosphatase%2C putative
+Tb927_09_v5.1	2223484	2224753	Tb927.9.14200:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.9.14200:mRNA;Parent=Tb927.9.14200;Ontology_term=GO:0005737,GO:0005743;description=methyltransferase domain containing protein%2C putative
+Tb927_09_v5.1	2343265	2343979	Tb927.9.15010:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.15010:mRNA;Parent=Tb927.9.15010;Ontology_term=GO:0005739;description=hypothetical protein%2C conserved
+Tb927_09_v5.1	2357401	2358796	Tb927.9.15100:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.15100:mRNA;Parent=Tb927.9.15100;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	78586	79841	Tb927.10.240:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.240:mRNA;Parent=Tb927.10.240;Ontology_term=GO:0020015,GO:0046860,GO:0010608,GO:0006623;description=peroxin 14%2C putative
+Tb927_10_v5.1	346812	349808	Tb927.10.1310:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.1310:mRNA;Parent=Tb927.10.1310;description=Domain of unknown function (DUF4042)%2C putative
+Tb927_10_v5.1	558525	559761	Tb927.10.2160:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.2160:mRNA;Parent=Tb927.10.2160;Ontology_term=GO:0005737,GO:0005654;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	596794	597746	Tb927.10.2300:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.2300:mRNA;Parent=Tb927.10.2300;Ontology_term=GO:0005737,GO:0005739;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	619327	620086	Tb927.10.2400:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.2400:mRNA;Parent=Tb927.10.2400;Ontology_term=GO:0005737;description=hypothetical protein
+Tb927_10_v5.1	729153	731629	Tb927.10.2860:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.2860:mRNA;Parent=Tb927.10.2860;Ontology_term=GO:0032403,GO:0036064;description=POC1 centriolar protein homolog
+Tb927_10_v5.1	765386	766849	Tb927.10.2940:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.2940:mRNA;Parent=Tb927.10.2940;description=Soluble NSF attachment protein%2C SNAP%2C putative
+Tb927_10_v5.1	934993	936937	Tb927.10.3610:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.3610:mRNA;Parent=Tb927.10.3610;Ontology_term=GO:0005739;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	978067	980616	Tb927.10.3770:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.3770:mRNA;Parent=Tb927.10.3770;Ontology_term=GO:0005737,GO:0005739;description=predicted TPR repeat protein
+Tb927_10_v5.1	1176794	1177473	Tb927.10.4630:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.4630:mRNA;Parent=Tb927.10.4630;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	1210482	1211528	Tb927.10.4840:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.4840:mRNA;Parent=Tb927.10.4840;description=transcription factor IIa%2C putative
+Tb927_10_v5.1	1406220	1407014	Tb927.10.5630:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.5630:mRNA;Parent=Tb927.10.5630;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	1569799	1571554	Tb927.10.6190:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.6190:mRNA;Parent=Tb927.10.6190;Note=1.2.1.- (With NAD(+) or NADP(+) as acceptor.);Ontology_term=GO:0004362,GO:0009450;description=aldehyde dehydrogenase%2C putative
+Tb927_10_v5.1	1780018	1780772	Tb927.10.7070:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.7070:mRNA;Parent=Tb927.10.7070;description=small nuclear RNA-activating protein
+Tb927_10_v5.1	1851902	1857627	Tb927.10.7350:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.7350:mRNA;Parent=Tb927.10.7350;Ontology_term=GO:0005930;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	1930652	1931501	Tb927.10.7670:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.7670:mRNA;Parent=Tb927.10.7670;description=Protein of unknown function (DUF2962)%2C putative
+Tb927_10_v5.1	2068359	2069004	Tb927.10.8380:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8380:mRNA;Parent=Tb927.10.8380;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	2121262	2123555	Tb927.10.8570:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8570:mRNA;Parent=Tb927.10.8570;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	2327146	2328833	Tb927.10.9420:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.9420:mRNA;Parent=Tb927.10.9420;Ontology_term=GO:0005524,GO:0008320,GO:0005739,GO:0009060,GO:0032979;description=mitochondrial chaperone BCS1%2C putative
+Tb927_10_v5.1	2405667	2407190	Tb927.10.9730:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.9730:mRNA;Parent=Tb927.10.9730;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	2590705	2592407	Tb927.10.10650:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10650:mRNA;Parent=Tb927.10.10650;Ontology_term=GO:0097014,GO:0031981;description=iron-containing hydrogenase%2C putative
+Tb927_10_v5.1	2849884	2851378	Tb927.10.11660:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.11660:mRNA;Parent=Tb927.10.11660;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	2853031	2856149	Tb927.10.11680:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.11680:mRNA;Parent=Tb927.10.11680;Ontology_term=GO:0005179,GO:0005247,GO:0005768,GO:0005576,GO:0006821;description=chloride channel protein%2C putative
+Tb927_10_v5.1	3018193	3020690	Tb927.10.12470:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.12470:mRNA;Parent=Tb927.10.12470;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	3040565	3041176	Tb927.10.12530:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.12530:mRNA;Parent=Tb927.10.12530;Ontology_term=GO:0051082,GO:0097014,GO:0005654,GO:0006457;description=chaperone protein DnaJ%2C putative
+Tb927_10_v5.1	3061418	3062395	Tb927.10.12630:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.12630:mRNA;Parent=Tb927.10.12630;Ontology_term=GO:0005509,GO:0051286;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	3062546	3065671	Tb927.10.12640:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.12640:mRNA;Parent=Tb927.10.12640;Ontology_term=GO:0051082,GO:0006457;description=chaperone protein DnaJ%2C putative
+Tb927_10_v5.1	3188412	3190795	Tb927.10.13100:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.13100:mRNA;Parent=Tb927.10.13100;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	3459323	3460641	Tb927.10.14250:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.14250:mRNA;Parent=Tb927.10.14250;Ontology_term=GO:0097014,GO:0005739,GO:0031981;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	3662579	3665976	Tb927.10.14990:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.14990:mRNA;Parent=Tb927.10.14990;Ontology_term=GO:0030990,GO:0035735;description=intraflagellar transport protein 80
+Tb927_10_v5.1	3682929	3687870	Tb927.10.15080:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.15080:mRNA;Parent=Tb927.10.15080;Ontology_term=GO:0005515,GO:0036064,GO:0031461;description=WD40 Repeat 1
+Tb927_10_v5.1	3710921	3712410	Tb927.10.15230:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.15230:mRNA;Parent=Tb927.10.15230;description=hypothetical protein%2C conserved
+Tb927_10_v5.1	3825705	3827628	Tb927.10.15600:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.15600:mRNA;Parent=Tb927.10.15600;Ontology_term=GO:0005737,GO:0006457;description=FKBP-type peptidylprolyl cis-trans isomerase%2C putative
+Tb927_11_v5.1	194220	201206	Tb927.11.780:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.780:mRNA;Parent=Tb927.11.780;Ontology_term=GO:0097014,GO:0031981;description=hypothetical protein%2C conserved
+Tb927_11_v5.1	203801	204467	Tb927.11.800:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.800:mRNA;Parent=Tb927.11.800;Ontology_term=GO:0005737;description=prefoldin subunit%2C putative
+Tb927_11_v5.1	862129	864572	Tb927.11.2970:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.11.2970:mRNA;Parent=Tb927.11.2970;Ontology_term=GO:0097014;description=hypothetical protein%2C conserved
+Tb927_11_v5.1	896696	898022	Tb927.11.3150:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.11.3150:mRNA;Parent=Tb927.11.3150;description=conserved protein
+Tb927_11_v5.1	989531	991704	Tb927.11.3370:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.3370:mRNA;Parent=Tb927.11.3370;description=hypothetical protein
+Tb927_11_v5.1	1185223	1186574	Tb927.11.4040:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.4040:mRNA;Parent=Tb927.11.4040;description=hypothetical protein%2C conserved
+Tb927_11_v5.1	1261484	1264021	Tb927.11.4350:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.11.4350:mRNA;Parent=Tb927.11.4350;Ontology_term=GO:0005930;description=hypothetical protein%2C conserved
+Tb927_11_v5.1	1292762	1293467	Tb927.11.4460:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.4460:mRNA;Parent=Tb927.11.4460;Ontology_term=GO:0003729,GO:0005737,GO:0010494;description=ALBA-Domain Protein
+Tb927_11_v5.1	1383186	1386086	Tb927.11.4800:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.4800:mRNA;Parent=Tb927.11.4800;Ontology_term=GO:0030276,GO:0030132,GO:0000331,GO:0005737,GO:0006898;description=clathrin coat assembly protein%2C putative
+Tb927_11_v5.1	1397065	1398303	Tb927.11.4880:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.4880:mRNA;Parent=Tb927.11.4880;Ontology_term=GO:0005930;description=Calmodulin-binding%2C putative
+Tb927_11_v5.1	1518223	1520959	Tb927.11.5330:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.5330:mRNA;Parent=Tb927.11.5330;description=hypothetical protein%2C conserved
+Tb927_11_v5.1	1530552	1532766	Tb927.11.5370:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.5370:mRNA;Parent=Tb927.11.5370;description=hypothetical protein%2C conserved
+Tb927_11_v5.1	1836933	1838254	Tb927.11.6530:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.11.6530:mRNA;Parent=Tb927.11.6530;Ontology_term=GO:0005930;description=hypothetical protein%2C conserved
+Tb927_11_v5.1	2206984	2208917	Tb927.11.7800:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.11.7800:mRNA;Parent=Tb927.11.7800;Ontology_term=GO:0016021;description=hypothetical protein%2C conserved
+Tb927_11_v5.1	2251911	2253551	Tb927.11.8000:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.8000:mRNA;Parent=Tb927.11.8000;description=hypothetical protein%2C conserved
+Tb927_11_v5.1	2325515	2327120	Tb927.11.8280:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.8280:mRNA;Parent=Tb927.11.8280;Ontology_term=GO:0005634;description=hypothetical protein%2C conserved
+Tb927_11_v5.1	2442436	2443717	Tb927.11.8880:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.11.8880:mRNA;Parent=Tb927.11.8880;description=tRNA threonylcarbamoyl adenosine modification protein%2C Sua5/YciO/YrdC/YwlC family%2C putative
+Tb927_11_v5.1	2582179	2582770	Tb927.11.9425:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.11.9425:mRNA;Parent=Tb927.11.9425;description=hypothetical protein

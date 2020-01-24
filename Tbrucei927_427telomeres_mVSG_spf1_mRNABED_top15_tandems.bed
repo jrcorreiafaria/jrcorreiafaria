@@ -1,0 +1,128 @@
+Tb927_01_v5.1	570422	572177	Tb927.1.2330:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2330:mRNA;Parent=Tb927.1.2330;Ontology_term=GO:0005200,GO:0005874,GO:0000226;description=beta tubulin
+Tb927_01_v5.1	572335	573881	Tb927.1.2340:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2340:mRNA;Parent=Tb927.1.2340;Ontology_term=GO:0005200,GO:0036064,GO:0030863,GO:0005874,GO:0000226;description=alpha tubulin
+Tb927_01_v5.1	574064	575819	Tb927.1.2350:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2350:mRNA;Parent=Tb927.1.2350;Ontology_term=GO:0005200,GO:0005874,GO:0000226;description=beta tubulin
+Tb927_01_v5.1	575977	577523	Tb927.1.2360:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2360:mRNA;Parent=Tb927.1.2360;Ontology_term=GO:0005200,GO:0030863,GO:0005874,GO:0000226;description=alpha tubulin
+Tb927_01_v5.1	577706	579461	Tb927.1.2370:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2370:mRNA;Parent=Tb927.1.2370;Ontology_term=GO:0005200,GO:0005737,GO:0005874,GO:0000226;description=beta tubulin
+Tb927_01_v5.1	579619	581165	Tb927.1.2380:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2380:mRNA;Parent=Tb927.1.2380;Ontology_term=GO:0005200,GO:0030863,GO:0005874,GO:0000226;description=alpha tubulin
+Tb927_01_v5.1	581348	583103	Tb927.1.2390:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2390:mRNA;Parent=Tb927.1.2390;Ontology_term=GO:0005200,GO:0005874,GO:0000226;description=beta tubulin
+Tb927_01_v5.1	583261	584807	Tb927.1.2400:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2400:mRNA;Parent=Tb927.1.2400;Ontology_term=GO:0005200,GO:0030863,GO:0005874,GO:0000226;description=alpha tubulin
+Tb927_01_v5.1	584990	585950	Tb927.1.2410:pseudogenic_transcript	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2410:pseudogenic_transcript;Parent=Tb927.1.2410;description=beta tubulin%2C pseudogene
+Tb927_01_v5.1	592440	593869	Tb927.1.2430:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2430:mRNA;Parent=Tb927.1.2430;Ontology_term=GO:0003677,GO:0005654,GO:0005634;description=histone H3%2C putative
+Tb927_01_v5.1	594023	595466	Tb927.1.2450:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2450:mRNA;Parent=Tb927.1.2450;Ontology_term=GO:0003677,GO:0005654,GO:0005634;description=histone H3%2C putative
+Tb927_01_v5.1	595607	597044	Tb927.1.2470:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2470:mRNA;Parent=Tb927.1.2470;Ontology_term=GO:0003677,GO:0005654;description=histone H3%2C putative
+Tb927_01_v5.1	597199	598630	Tb927.1.2490:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2490:mRNA;Parent=Tb927.1.2490;Ontology_term=GO:0003677,GO:0005654,GO:0005634;description=histone H3%2C putative
+Tb927_01_v5.1	598785	600216	Tb927.1.2510:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2510:mRNA;Parent=Tb927.1.2510;Ontology_term=GO:0003677,GO:0005634;description=histone H3%2C putative
+Tb927_01_v5.1	600371	601800	Tb927.1.2530:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2530:mRNA;Parent=Tb927.1.2530;Ontology_term=GO:0003677,GO:0005654,GO:0005634;description=histone H3%2C putative
+Tb927_01_v5.1	601955	603378	Tb927.1.2550:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.2550:mRNA;Parent=Tb927.1.2550;Ontology_term=GO:0003677,GO:0005654,GO:0005634;description=histone H3%2C putative
+Tb927_01_v5.1	937983	942232	Tb927.1.4540:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.4540:mRNA;Parent=Tb927.1.4540;description=cyclin-like F-box protein 1A
+Tb927_01_v5.1	942389	944105	Tb927.1.4560:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.4560:mRNA;Parent=Tb927.1.4560;description=cyclin-like F-box protein 1B
+Tb927_01_v5.1	945452	947168	Tb927.1.4580:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.4580:mRNA;Parent=Tb927.1.4580;description=cyclin-like F-box protein 1C
+Tb927_01_v5.1	948579	950295	Tb927.1.4600:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.4600:mRNA;Parent=Tb927.1.4600;Ontology_term=GO:0005737;description=cyclin-like F-box protein 1D
+Tb927_01_v5.1	951708	953424	Tb927.1.4630:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.4630:mRNA;Parent=Tb927.1.4630;Ontology_term=GO:0005737;description=cyclin-like F-box protein 1E
+Tb927_01_v5.1	954771	959982	Tb927.1.4650:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.1.4650:mRNA;Parent=Tb927.1.4650;Ontology_term=GO:0003729,GO:0005737,GO:0044782,GO:0006264,GO:1902412;description=cyclin-like F-box protein 2
+Tb927_03_v5.1	1147940	1150117	Tb927.3.4070:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4070:mRNA;Parent=Tb927.3.4070;Ontology_term=GO:0005737;description=Nodulin-like%2C putative
+Tb927_03_v5.1	1150360	1152378	Tb927.3.4080:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4080:mRNA;Parent=Tb927.3.4080;description=Nodulin-like%2C putative
+Tb927_03_v5.1	1152522	1154714	Tb927.3.4090:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4090:mRNA;Parent=Tb927.3.4090;description=Nodulin-like%2C putative
+Tb927_03_v5.1	1154858	1157033	Tb927.3.4100:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4100:mRNA;Parent=Tb927.3.4100;description=Nodulin-like%2C putative
+Tb927_03_v5.1	1157177	1159419	Tb927.3.4110:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4110:mRNA;Parent=Tb927.3.4110;Ontology_term=GO:0005737;description=Nodulin-like%2C putative
+Tb927_03_v5.1	1208658	1210764	Tb927.3.4290:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4290:mRNA;Parent=Tb927.3.4290;Ontology_term=GO:0060285,GO:0043056,GO:0044458,GO:0010608;description=Paraflagellar rod protein 1-1
+Tb927_03_v5.1	1210897	1212927	Tb927.3.4300:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4300:mRNA;Parent=Tb927.3.4300;Ontology_term=GO:0097014,GO:0031981,GO:0060285,GO:0043056,GO:0044458;description=Paraflagellar rod protein 1-2
+Tb927_03_v5.1	1213060	1215090	Tb927.3.4310:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4310:mRNA;Parent=Tb927.3.4310;Ontology_term=GO:0060285,GO:0043056,GO:0044458;description=Paraflagellar rod protein 1-3
+Tb927_03_v5.1	1215223	1217253	Tb927.3.4320:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4320:mRNA;Parent=Tb927.3.4320;Ontology_term=GO:0060285,GO:0043056,GO:0044458;description=Paraflagellar rod protein 1-4
+Tb927_03_v5.1	1217386	1219341	Tb927.3.4330:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.3.4330:mRNA;Parent=Tb927.3.4330;Ontology_term=GO:0060285,GO:0043056,GO:0044458;description=Paraflagellar rod protein 1-5
+Tb927_05_v5.1	1328083	1328420	Tb927.5.4170:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4170:mRNA;Parent=Tb927.5.4170;Ontology_term=GO:0005654,GO:0000786,GO:0006334;description=histone H4%2C putative
+Tb927_05_v5.1	1328641	1329156	Tb927.5.4180:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4180:mRNA;Parent=Tb927.5.4180;Ontology_term=GO:0005654;description=histone H4%2C putative
+Tb927_05_v5.1	1329377	1329892	Tb927.5.4190:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4190:mRNA;Parent=Tb927.5.4190;description=histone H4%2C putative
+Tb927_05_v5.1	1330113	1330628	Tb927.5.4200:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4200:mRNA;Parent=Tb927.5.4200;Ontology_term=GO:0005737;description=histone H4%2C putative
+Tb927_05_v5.1	1331027	1331364	Tb927.5.4210:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4210:mRNA;Parent=Tb927.5.4210;description=histone H4%2C putative
+Tb927_05_v5.1	1331525	1332100	Tb927.5.4220:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4220:mRNA;Parent=Tb927.5.4220;Ontology_term=GO:0035869,GO:0005654;description=histone H4%2C putative
+Tb927_05_v5.1	1332321	1332836	Tb927.5.4230:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4230:mRNA;Parent=Tb927.5.4230;Ontology_term=GO:0005654;description=histone H4%2C putative
+Tb927_05_v5.1	1333078	1333572	Tb927.5.4240:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4240:mRNA;Parent=Tb927.5.4240;Ontology_term=GO:0005654;description=histone H4%2C putative
+Tb927_05_v5.1	1333793	1334308	Tb927.5.4250:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4250:mRNA;Parent=Tb927.5.4250;Ontology_term=GO:0097014,GO:0031981;description=histone H4%2C putative
+Tb927_05_v5.1	1334550	1335044	Tb927.5.4260:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.5.4260:mRNA;Parent=Tb927.5.4260;Ontology_term=GO:0005654;description=histone H4%2C putative
+Tb927_06_v5.1	404523	406187	Tb927.6.960:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.960:mRNA;Parent=Tb927.6.960;Note=3.4.22.- (Cysteine endopeptidases.);description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	406310	407951	Tb927.6.970:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.970:mRNA;Parent=Tb927.6.970;Note=3.4.22.- (Cysteine endopeptidases.);description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	408083	409715	Tb927.6.980:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.980:mRNA;Parent=Tb927.6.980;Note=3.4.22.- (Cysteine endopeptidases.);description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	409833	411476	Tb927.6.990:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.990:mRNA;Parent=Tb927.6.990;Note=3.4.22.- (Cysteine endopeptidases.);description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	411756	413237	Tb927.6.1000:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.1000:mRNA;Parent=Tb927.6.1000;Note=3.4.22.- (Cysteine endopeptidases.);description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	413617	415001	Tb927.6.1010:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.1010:mRNA;Parent=Tb927.6.1010;Note=3.4.22.- (Cysteine endopeptidases.);Ontology_term=GO:0010608;description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	415133	416765	Tb927.6.1020:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.1020:mRNA;Parent=Tb927.6.1020;Note=3.4.22.- (Cysteine endopeptidases.);description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	416888	418526	Tb927.6.1030:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.1030:mRNA;Parent=Tb927.6.1030;Note=3.4.22.- (Cysteine endopeptidases.);description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	418906	420287	Tb927.6.1040:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.1040:mRNA;Parent=Tb927.6.1040;Note=3.4.22.- (Cysteine endopeptidases.);description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	420667	422048	Tb927.6.1050:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.1050:mRNA;Parent=Tb927.6.1050;Note=3.4.22.- (Cysteine endopeptidases.);description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	422171	423809	Tb927.6.1060:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.6.1060:mRNA;Parent=Tb927.6.1060;Note=3.4.22.- (Cysteine endopeptidases.);description=cysteine peptidase%2C Clan CA%2C family C1%2C Cathepsin L-like
+Tb927_06_v5.1	1344491	1345787	Tb927.6.4840:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.4840:mRNA;Parent=Tb927.6.4840;Note=2.5.1.6 (Methionine adenosyltransferase);Ontology_term=GO:0005737;description=S-adenosylmethionine synthetase%2C putative
+Tb927_06_v5.1	1346597	1348550	Tb927.6.4850:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.4850:mRNA;Parent=Tb927.6.4850;Note=2.5.1.6 (Methionine adenosyltransferase);Ontology_term=GO:0097014;description=S-adenosylmethionine synthetase%2C putative
+Tb927_06_v5.1	1348703	1349999	Tb927.6.4860:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.4860:mRNA;Parent=Tb927.6.4860;Note=2.5.1.6 (Methionine adenosyltransferase);Ontology_term=GO:0005737;description=S-adenosylmethionine synthetase%2C putative
+Tb927_06_v5.1	1350807	1352693	Tb927.6.4870:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.4870:mRNA;Parent=Tb927.6.4870;Note=2.5.1.6 (Methionine adenosyltransferase);Ontology_term=GO:0097014;description=S-adenosylmethionine synthetase%2C putative
+Tb927_06_v5.1	1352913	1354866	Tb927.6.4880:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.4880:mRNA;Parent=Tb927.6.4880;Note=2.5.1.6 (Methionine adenosyltransferase);Ontology_term=GO:0097014;description=S-adenosylmethionine synthetase%2C putative
+Tb927_06_v5.1	1355019	1356905	Tb927.6.4890:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.4890:mRNA;Parent=Tb927.6.4890;Note=2.5.1.6 (Methionine adenosyltransferase);Ontology_term=GO:0005737;description=S-adenosylmethionine synthetase%2C putative
+Tb927_06_v5.1	1357124	1359008	Tb927.6.4900:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.4900:mRNA;Parent=Tb927.6.4900;Note=2.5.1.6 (Methionine adenosyltransferase);Ontology_term=GO:0005737;description=S-adenosylmethionine synthetase%2C putative
+Tb927_06_v5.1	1359228	1361112	Tb927.6.4910:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.4910:mRNA;Parent=Tb927.6.4910;Note=2.5.1.6 (Methionine adenosyltransferase);Ontology_term=GO:0097014;description=S-adenosylmethionine synthetase%2C putative
+Tb927_06_v5.1	1361332	1362628	Tb927.6.4920:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.6.4920:mRNA;Parent=Tb927.6.4920;Note=2.5.1.6 (Methionine adenosyltransferase);Ontology_term=GO:0097014;description=S-adenosylmethionine synthetase%2C putative
+Tb927_07_v5.1	728915	729625	Tb927.7.2820:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2820:mRNA;Parent=Tb927.7.2820;Ontology_term=GO:0003677,GO:0005654,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	729825	730534	Tb927.7.2830:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2830:mRNA;Parent=Tb927.7.2830;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	730734	731380	Tb927.7.2840:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2840:mRNA;Parent=Tb927.7.2840;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	731644	732353	Tb927.7.2850:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2850:mRNA;Parent=Tb927.7.2850;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	732553	733199	Tb927.7.2860:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2860:mRNA;Parent=Tb927.7.2860;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	733463	734172	Tb927.7.2870:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2870:mRNA;Parent=Tb927.7.2870;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	734372	735017	Tb927.7.2880:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2880:mRNA;Parent=Tb927.7.2880;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	735281	735927	Tb927.7.2890:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2890:mRNA;Parent=Tb927.7.2890;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	736191	736900	Tb927.7.2900:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2900:mRNA;Parent=Tb927.7.2900;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	737100	737745	Tb927.7.2910:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2910:mRNA;Parent=Tb927.7.2910;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	738009	738653	Tb927.7.2920:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2920:mRNA;Parent=Tb927.7.2920;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	738917	739562	Tb927.7.2930:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2930:mRNA;Parent=Tb927.7.2930;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	739826	740536	Tb927.7.2940:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.2940:mRNA;Parent=Tb927.7.2940;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2A%2C putative
+Tb927_07_v5.1	1590091	1592710	Tb927.7.5930:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.5930:mRNA;Parent=Tb927.7.5930;Ontology_term=GO:0009986,GO:0005886,GO:0015746,GO:0050793,GO:0009266;description=Protein Associated with Differentiation 1
+Tb927_07_v5.1	1592848	1595615	Tb927.7.5940:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.5940:mRNA;Parent=Tb927.7.5940;Ontology_term=GO:0020016,GO:0005886,GO:0015746,GO:0050793,GO:0009266;description=Protein Associated with Differentiation
+Tb927_07_v5.1	1599146	1601050	Tb927.7.5950:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.5950:mRNA;Parent=Tb927.7.5950;description=protein associated with differentiation 3%2C putative
+Tb927_07_v5.1	1602472	1604416	Tb927.7.5960:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.5960:mRNA;Parent=Tb927.7.5960;description=protein associated with differentiation 4%2C putative
+Tb927_07_v5.1	1605715	1608543	Tb927.7.5970:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.5970:mRNA;Parent=Tb927.7.5970;description=protein associated with differentiation 5%2C putative
+Tb927_07_v5.1	1608681	1610646	Tb927.7.5980:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.5980:mRNA;Parent=Tb927.7.5980;description=protein associated with differentiation 6%2C putative
+Tb927_07_v5.1	1611939	1614755	Tb927.7.5990:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.5990:mRNA;Parent=Tb927.7.5990;description=protein associated with differentiation 7%2C putative
+Tb927_07_v5.1	1614893	1616858	Tb927.7.6000:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.7.6000:mRNA;Parent=Tb927.7.6000;Ontology_term=GO:0005737;description=protein associated with differentiation 8%2C putative
+Tb927_08_v5.1	1474764	1476763	Tb927.8.4970:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.4970:mRNA;Parent=Tb927.8.4970;Ontology_term=GO:0060285,GO:0043056,GO:0044458;description=Paraflagellar rod protein 2-1
+Tb927_08_v5.1	1476907	1478917	Tb927.8.4980:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.4980:mRNA;Parent=Tb927.8.4980;Ontology_term=GO:0060285,GO:0043056,GO:0044458;description=Paraflagellar rod protein 2-2
+Tb927_08_v5.1	1479061	1480928	Tb927.8.4990:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.4990:mRNA;Parent=Tb927.8.4990;Ontology_term=GO:0060285,GO:0043056,GO:0044458;description=Paraflagellar rod protein 2-3
+Tb927_08_v5.1	1481215	1483225	Tb927.8.5000:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.5000:mRNA;Parent=Tb927.8.5000;Ontology_term=GO:0060285,GO:0043056,GO:0044458;description=Paraflagellar rod protein 2-4
+Tb927_08_v5.1	1483369	1485373	Tb927.8.5010:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.8.5010:mRNA;Parent=Tb927.8.5010;Ontology_term=GO:0097014,GO:0031981,GO:0060285,GO:0043056,GO:0044458;description=Paraflagellar rod protein 2-5
+Tb927_09_v5.1	1968079	1970284	Tb927.9.12550:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.12550:mRNA;Parent=Tb927.9.12550;Note=2.7.1.30 (Glycerol kinase);Ontology_term=GO:0005524,GO:0004370,GO:0020015,GO:0006072;description=glycerol kinase%2C glycosomal
+Tb927_09_v5.1	1971655	1973862	Tb927.9.12570:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.12570:mRNA;Parent=Tb927.9.12570;Note=2.7.1.30 (Glycerol kinase);Ontology_term=GO:0005524,GO:0004370,GO:0020015,GO:0006072;description=glycerol kinase%2C glycosomal
+Tb927_09_v5.1	1975233	1977375	Tb927.9.12590:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.12590:mRNA;Parent=Tb927.9.12590;Note=2.7.1.30 (Glycerol kinase);Ontology_term=GO:0005524,GO:0004370,GO:0020015,GO:0006072;description=glycerol kinase%2C glycosomal
+Tb927_09_v5.1	1978808	1981016	Tb927.9.12610:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.12610:mRNA;Parent=Tb927.9.12610;Note=2.7.1.30 (Glycerol kinase);Ontology_term=GO:0005524,GO:0004370,GO:0020015,GO:0006072;description=glycerol kinase%2C glycosomal
+Tb927_09_v5.1	1982387	1984534	Tb927.9.12630:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.9.12630:mRNA;Parent=Tb927.9.12630;Note=2.7.1.30 (Glycerol kinase);Ontology_term=GO:0005524,GO:0004370,GO:0020015,GO:0006072;description=glycerol kinase%2C glycosomal
+Tb927_10_v5.1	2571304	2571705	Tb927.10.10445:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10445:mRNA;Parent=Tb927.10.10445;description=Core histone H2A/H2B/H3/H4%2C putative
+Tb927_10_v5.1	2571896	2572608	Tb927.10.10460:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10460:mRNA;Parent=Tb927.10.10460;Ontology_term=GO:0003677,GO:0005654,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2572799	2573516	Tb927.10.10470:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10470:mRNA;Parent=Tb927.10.10470;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2573707	2574424	Tb927.10.10480:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10480:mRNA;Parent=Tb927.10.10480;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2574564	2575332	Tb927.10.10490:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10490:mRNA;Parent=Tb927.10.10490;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2575472	2576235	Tb927.10.10500:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10500:mRNA;Parent=Tb927.10.10500;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2576426	2578051	Tb927.10.10510:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10510:mRNA;Parent=Tb927.10.10510;Ontology_term=GO:0003677,GO:0005654,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2577283	2578954	Tb927.10.10520:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10520:mRNA;Parent=Tb927.10.10520;Ontology_term=GO:0003677,GO:0005654,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2579094	2579857	Tb927.10.10530:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10530:mRNA;Parent=Tb927.10.10530;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0051276;description=histone H2B%2C putative
+Tb927_10_v5.1	2580371	2580765	Tb927.10.10540:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10540:mRNA;Parent=Tb927.10.10540;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2580956	2581673	Tb927.10.10550:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10550:mRNA;Parent=Tb927.10.10550;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2582187	2582581	Tb927.10.10560:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10560:mRNA;Parent=Tb927.10.10560;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2582772	2583489	Tb927.10.10570:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10570:mRNA;Parent=Tb927.10.10570;Ontology_term=GO:0003677,GO:0005634,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2583629	2584392	Tb927.10.10580:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10580:mRNA;Parent=Tb927.10.10580;Ontology_term=GO:0003677,GO:0005654,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2584532	2585300	Tb927.10.10590:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10590:mRNA;Parent=Tb927.10.10590;Ontology_term=GO:0003677,GO:0005654,GO:0005634,GO:0006334;description=histone H2B%2C putative
+Tb927_10_v5.1	2654809	2657259	Tb927.10.10890:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10890:mRNA;Parent=Tb927.10.10890;Ontology_term=GO:0005737,GO:0005654;description=heat shock protein%2C putative
+Tb927_10_v5.1	2657584	2660034	Tb927.10.10900:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10900:mRNA;Parent=Tb927.10.10900;description=heat shock protein%2C putative
+Tb927_10_v5.1	2660358	2662808	Tb927.10.10910:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10910:mRNA;Parent=Tb927.10.10910;Ontology_term=GO:0005737,GO:0005654;description=heat shock protein%2C putative
+Tb927_10_v5.1	2663108	2665557	Tb927.10.10920:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10920:mRNA;Parent=Tb927.10.10920;Ontology_term=GO:0005737,GO:0005654;description=heat shock protein%2C putative
+Tb927_10_v5.1	2665887	2668337	Tb927.10.10930:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10930:mRNA;Parent=Tb927.10.10930;Ontology_term=GO:0005737;description=heat shock protein%2C putative
+Tb927_10_v5.1	2668672	2671122	Tb927.10.10940:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10940:mRNA;Parent=Tb927.10.10940;Ontology_term=GO:0005737,GO:0005654;description=heat shock protein%2C putative
+Tb927_10_v5.1	2671443	2673893	Tb927.10.10950:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10950:mRNA;Parent=Tb927.10.10950;Ontology_term=GO:0005737;description=heat shock protein%2C putative
+Tb927_10_v5.1	2674218	2676668	Tb927.10.10960:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10960:mRNA;Parent=Tb927.10.10960;Ontology_term=GO:0005737;description=heat shock protein%2C putative
+Tb927_10_v5.1	2676993	2679443	Tb927.10.10970:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10970:mRNA;Parent=Tb927.10.10970;Ontology_term=GO:0005737;description=heat shock protein%2C putative
+Tb927_10_v5.1	2679756	2682206	Tb927.10.10980:mRNA	.	-	EuPathDB	mRNA	.	ID=Tb927.10.10980:mRNA;Parent=Tb927.10.10980;Ontology_term=GO:0042623,GO:0005813,GO:0005737,GO:0005654,GO:0042026,GO:0006986;description=heat shock protein 90%2C putative
+Tb927_10_v5.1	2093411	2095042	Tb927.10.8440:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8440:mRNA;Parent=Tb927.10.8440;Ontology_term=GO:0005355,GO:0016021,GO:0015758;description=glucose transporter 1B
+Tb927_10_v5.1	2095804	2097435	Tb927.10.8450:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8450:mRNA;Parent=Tb927.10.8450;Ontology_term=GO:0005355,GO:0016021,GO:0015758;description=glucose transporter 1E
+Tb927_10_v5.1	2098193	2100472	Tb927.10.8460:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8460:mRNA;Parent=Tb927.10.8460;description=glucose transporter%2C putative
+Tb927_10_v5.1	2100582	2102723	Tb927.10.8470:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8470:mRNA;Parent=Tb927.10.8470;description=glucose transporter%2C putative
+Tb927_10_v5.1	2102971	2105423	Tb927.10.8480:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8480:mRNA;Parent=Tb927.10.8480;description=glucose transporter%2C putative
+Tb927_10_v5.1	2105533	2107989	Tb927.10.8490:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8490:mRNA;Parent=Tb927.10.8490;Ontology_term=GO:0051286,GO:0005886;description=glucose transporter%2C putative
+Tb927_10_v5.1	2108099	2109736	Tb927.10.8500:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8500:mRNA;Parent=Tb927.10.8500;description=glucose transporter%2C putative
+Tb927_10_v5.1	2110664	2112975	Tb927.10.8510:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8510:mRNA;Parent=Tb927.10.8510;description=glucose transporter%2C putative
+Tb927_10_v5.1	2113228	2115680	Tb927.10.8520:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8520:mRNA;Parent=Tb927.10.8520;description=glucose transporter%2C putative
+Tb927_10_v5.1	2115790	2118125	Tb927.10.8530:mRNA	.	+	EuPathDB	mRNA	.	ID=Tb927.10.8530:mRNA;Parent=Tb927.10.8530;Ontology_term=GO:0015149,GO:0016021,GO:0008645;description=glucose transporter 2A
